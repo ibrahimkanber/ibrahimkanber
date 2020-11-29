@@ -1,5 +1,5 @@
 ### Hi there i am Ibrahim 👋
-###🌱 I’m currently learning REACT,VUE,EXPRESS
+🌱 I’m currently learning REACT,VUE,EXPRESS
 
 <!--
 **ibrahimkanber/ibrahimkanber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
