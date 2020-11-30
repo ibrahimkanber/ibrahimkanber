@@ -2,7 +2,7 @@
 - ✨ I enjoy coding
 - ✨ I know Python and JS but i m focused on JS,
 - ✨ I have learned Vanilla JS,REACT,NODE,EXPRESS
-- ✨ Now I  m learning VUE 
+- ✨ I  m currently learning VUE 
 
 <!--
 **ibrahimkanber/ibrahimkanber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
