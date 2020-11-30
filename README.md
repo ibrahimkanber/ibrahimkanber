@@ -1,5 +1,8 @@
 ### Hi there i am Ibrahim 👋
-🌱 I’m currently learning REACT,VUE,EXPRESS
+- ✨ I enjoy coding
+- ✨ I know Python and JS but i m focused on JS,
+- ✨ I have learned Vanilla JS,REACT,NODE,EXPRESS
+- ✨ Now I  m learning VUE 
 
 <!--
 **ibrahimkanber/ibrahimkanber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,11 +10,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning REACT,VUE,EXPRESS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✨ I enjoy coding
+- ✨ I know Python and JS but i m focused on JS,
+- ✨ I have learned Vanilla JS,REACT,NODE,EXPRESS
+- ✨ Now I  m learning VUE 
+
 -->
