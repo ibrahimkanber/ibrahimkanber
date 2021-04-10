@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimkanber&show_icons=true&theme=tokyonight" align='right' width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimkanber&show_icons=true&theme=tokyonight" align='right' width="40%">
 
 
 ### Hi there i am Ibrahim 👋
