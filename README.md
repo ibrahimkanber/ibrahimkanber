@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ✨ I enjoy coding
 - ✨ I know Python but i m JS enthusiastic,
 - ✨ I have learned Vanilla JS,REACT,NODE,EXPRESS
-- ✨ Now I  m learning VUE 
+
 
 -->
