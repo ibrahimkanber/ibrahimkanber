@@ -10,12 +10,7 @@
 <!--
 **ibrahimkanber/ibrahimkanber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- ✨ I enjoy coding
-- ✨ I know Python but i m JS enthusiastic,
-- ✨ I have learned Vanilla JS,REACT,NODE,EXPRESS
 
 
 -->
